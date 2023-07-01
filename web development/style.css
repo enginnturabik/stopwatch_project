@@ -1,0 +1,25 @@
+button
+{
+    color:white;
+    background-color: red;
+    padding: 10px;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 10px;
+
+}
+#time_display
+{
+    font-family: Consolas;
+    font-size: 80px;
+    color: green;
+
+}
+#time_container
+{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color:lightblue;
+
+}
